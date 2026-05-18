@@ -51,8 +51,8 @@ Jestem inżynierem o wszechstronnych kompetencjach, łączącym świat zaawansow
 <summary>📸 <b>Zobacz efekt działania (Przed / Po)</b></summary>
 <br />
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1730406851326-808a50bac63a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0OTc4MDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzQwMjI3MDJ8&ixlib=rb-4.0.3&q=80&w=1080](https://images.unsplash.com/photo-1774910429313-98034531b71c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0OTc4MDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzkxMzAyMTV8&ixlib=rb-4.1.0&q=80&w=1080" width="45%" alt="Oryginalne zdjęcie" />
-  <img src="mount.png" width="45%" alt="Wygenerowane ASCII Art" />
+  <img src="[https://images.unsplash.com/photo-1730406851326-808a50bac63a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0OTc4MDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzQwMjI3MDJ8&ixlib=rb-4.0.3&q=80&w=1080](https://images.unsplash.com/photo-1774910429313-98034531b71c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0OTc4MDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzkxMzAyMTV8&ixlib=rb-4.1.0&q=80&w=1080](https://images.unsplash.com/photo-1774910429313-98034531b71c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0OTc4MDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzkxMzAyMTV8&ixlib=rb-4.1.0&q=80&w=1080)" width="45%" alt="Oryginalne zdjęcie" />
+  <img src="mount.png" width="80%" alt="Wygenerowane ASCII Art" />
 </p>
 </details>
 
