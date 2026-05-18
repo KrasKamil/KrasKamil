@@ -41,6 +41,21 @@ Jestem inżynierem o wszechstronnych kompetencjach, łączącym świat zaawansow
 * **Kluczowe funkcje:** Autorski, sterowany kreator (wizard) konfiguracji nowego parkingu, wizualna kalibracja wymiarów miejsc za pomocą interfejsu OpenCV GUI, obsługa strumieni wideo, kamer IP i transmisji YouTube (`yt-dlp`), a także wyznaczanie najkrótszej i bezpiecznej ścieżki algorytmem **A\*** do najbliższego wolnego miejsca parkingowego.
 * 🔗 [Przejdź do repozytorium](https://github.com/KrasKamil/Parking_spots_detection)
 
+### 🎨 Advanced ASCII Art Generator (ASCII_gen)
+**Zaawansowane narzędzie CLI do transformacji obrazów cyfrowych w unikalną sztukę ASCII Art.**
+* **Technologie:** Python, Pillow, Requests, PyAutoGUI, tqdm, Unsplash API.
+* **Kluczowe funkcje:** Konwersja obrazów z plików lokalnych, zewnętrznych adresów URL oraz dynamiczne pobieranie losowych fotografii wysokiej jakości poprzez API Unsplash. Oferuje precyzyjne mapowanie jasności pikseli na znaki (Character Mapping), generowanie wielokolorowego ASCII Art, automatyczny podgląd w przeglądarce oraz eksport wyników do plików tekstowych lub grafik PNG.
+* 🔗 [Przejdź do repozytorium](https://github.com/KrasKamil/PythonProjects)
+
+<details>
+<summary>📸 <b>Zobacz efekt działania (Przed / Po)</b></summary>
+<br />
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1730406851326-808a50bac63a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0OTc4MDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzQwMjI3MDJ8&ixlib=rb-4.0.3&q=80&w=1080" width="45%" alt="Oryginalne zdjęcie" />
+  <img src="GOAT.png" width="45%" alt="Wygenerowane ASCII Art" />
+</p>
+</details>
+
 ### 🌡️ Smart Thermo Assistant
 **Zaawansowany system domowego asystenta i dashboardu multimedialnego zoptymalizowany pod kątem systemów Windows oraz Raspberry Pi.**
 * **Technologie:** TypeScript (Backend Core), Node.js, Express, Python (WinSDK), HTML5/CSS3 (Glassmorphism UI), Chart.js.
