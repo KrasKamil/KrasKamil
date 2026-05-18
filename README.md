@@ -23,13 +23,6 @@ Jestem inżynierem o wszechstronnych kompetencjach, łączącym świat zaawansow
 
 ## 🌟 Wyróżnione Projekty (Top Projects)
 
-### 📊 Market Brain Station
-**Profesjonalny bot do tradingu algorytmicznego z silnikiem wielostrategicznego backtestingu.**
-* **Technologie:** Python 3.9+, DuckDB, yfinance, Pandas, NumPy, Telegram API.
-* **Architektura:** Event-Driven, wzorce Repository Pattern i Unit of Work.
-* **Kluczowe funkcje:** Monitorowanie ponad 176 aktywów finansowych, odporny silnik informacyjny z mechanizmem retry (Tenacity), filtr korelacji ryzyka sektorowego, automatyczne generowanie raportów HTML oraz interaktywny panel sterowania za pomocą bota Telegram z wykresami linii kapitału (Equity Curve).
-* 🔗 [Przejdź do repozytorium](https://github.com/KrasKamil/market-brain-station)
-
 ### 🔗 Skylink P2P
 **Aplikacja webowa do błyskawicznego, bezpośredniego przesyłania plików między przeglądarkami w architekturze peer-to-peer.**
 * **Technologie:** Node.js, Express, Socket.io, WebRTC, Hosting Render.
@@ -54,6 +47,12 @@ Jestem inżynierem o wszechstronnych kompetencjach, łączącym świat zaawansow
 * **Kluczowe funkcje:** Integracja z OAuth Spotify (pobieranie metadanych i sterowanie), systemowy skaner urządzeń Bluetooth do wykrywania obecności domowników, moduł monitorowania pogoda (OpenWeatherMap) oraz wbudowane REST API do integracji z powiadomieniami bota Telegram.
 * 🔗 [Przejdź do repozytorium](https://github.com/KrasKamil/SmartThermo)
 
+### 📊 Market Brain Station
+**Profesjonalny bot do tradingu algorytmicznego z silnikiem wielostrategicznego backtestingu.**
+* **Technologie:** Python 3.9+, DuckDB, yfinance, Pandas, NumPy, Telegram API.
+* **Architektura:** Event-Driven, wzorce Repository Pattern i Unit of Work.
+* **Kluczowe funkcje:** Monitorowanie ponad 176 aktywów finansowych, odporny silnik informacyjny z mechanizmem retry (Tenacity), filtr korelacji ryzyka sektorowego, automatyczne generowanie raportów HTML oraz interaktywny panel sterowania za pomocą bota Telegram z wykresami linii kapitału (Equity Curve).
+* 🔗 [Przejdź do repozytorium](https://github.com/KrasKamil/market-brain-station)
 ---
 
 ## 🛠️ Pozostałe Projekty i Doświadczenie Techniczne
