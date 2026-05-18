@@ -48,12 +48,15 @@ Jestem inżynierem o wszechstronnych kompetencjach, łączącym świat zaawansow
 * 🔗 [Przejdź do repozytorium](https://github.com/KrasKamil/PythonProjects)
 
 <details>
-<summary>📸 <b>Zobacz efekt działania (Przed / Po)</b></summary>
+<summary>📸 <b>Otwórz porównanie efektu (Przed / Po)</b></summary>
 <br />
-<p align="center">
-  <img src="[https://images.unsplash.com/photo-1730406851326-808a50bac63a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0OTc4MDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzQwMjI3MDJ8&ixlib=rb-4.0.3&q=80&w=1080](https://images.unsplash.com/photo-1774910429313-98034531b71c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0OTc4MDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzkxMzAyMTV8&ixlib=rb-4.1.0&q=80&w=1080](https://images.unsplash.com/photo-1774910429313-98034531b71c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0OTc4MDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzkxMzAyMTV8&ixlib=rb-4.1.0&q=80&w=1080)" width="45%" alt="Oryginalne zdjęcie" />
-  <img src="mount.png" width="80%" alt="Wygenerowane ASCII Art" />
-</p>
+
+> ⚙️ *Notatka: Wygenerowana grafika wyjściowa (`mount.png`) została celowo przeskalowana w aplikacji przy użyciu parametru **Scale Factor**, aby zoptymalizować rozmiar pliku i zapewnić płynne ładowanie w przeglądarce.*
+
+| 🖼️ Oryginalne zdjęcie | 👾 Wynik ASCII Art |
+| :---: | :---: |
+| <img src="https://images.unsplash.com/photo-1774910429313-98034531b71c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0OTc4MDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzkxMzAyMTV8&ixlib=rb-4.1.0&q=80&w=1080" width="100%" alt="Oryginalne zdjęcie z Unsplash" /> | <img src="mount.png" width="100%" alt="Wygenerowane ASCII Art - mount.png" /> |
+
 </details>
 
 ### 🌡️ Smart Thermo Assistant
