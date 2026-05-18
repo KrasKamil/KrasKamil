@@ -106,17 +106,10 @@ Jestem inżynierem o wszechstronnych kompetencjach, łączącym świat zaawansow
 
 * **Mean Shift Implementation from Scratch:** Implementacja nienadzorowanego algorytmu klasteryzacji Mean Shift napisana od zera w czystym **NumPy**. Wykorzystuje logikę płaskiego jądra jednostajnego (Flat Kernel), moduł automatycznego scalania zbiegających się środków skupień (Centroid Pruning) i pełną zgodność z interfejsem API `scikit-learn` (`fit`/`predict`), zweryfikowaną testami w `pytest`.
 * **cv-gen (CLI CV Builder):** Narzędzie wiersza poleceń Node.js wykorzystujące bezgłową przeglądarkę **Puppeteer (Chromium)** do automatycznego generowania nowoczesnych i czytelnych dla systemów rekrutacyjnych (ATS-friendly) dokumentów CV w formacie PDF z plików strukturyzowanych JSON.
-* **ASCII_gen:** Generator sztuki ASCII w Pythonie, wspierający przetwarzanie obrazów lokalnych, sieciowych URL oraz integrację z API Unsplash, oferujący skalowanie proporcji i generowanie kolorowych grafik wyjściowych do plików PNG z użyciem biblioteki `Pillow`.
+
 </details>
 
 ---
-
-## 📈 Statystyki GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KrasKamil&show_icons=true&theme=tokyonight&count_private=true" alt="Kamil's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrasKamil&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 ---
 📫 **Jak się ze mną skontaktować?** [Mój Profil na GitHubie](https://github.com/KrasKamil)
