@@ -65,6 +65,16 @@ Jestem inżynierem o wszechstronnych kompetencjach, łączącym świat zaawansow
 * **Kluczowe funkcje:** Integracja z OAuth Spotify (pobieranie metadanych i sterowanie), systemowy skaner urządzeń Bluetooth do wykrywania obecności domowników, moduł monitorowania pogoda (OpenWeatherMap) oraz wbudowane REST API do integracji z powiadomieniami bota Telegram.
 * 🔗 [Przejdź do repozytorium](https://github.com/KrasKamil/SmartThermo)
 
+### 🍦 LodoManiak (Lody Daisy) – System Lojalnościowy & Flotowy
+**Kompleksowy, produkcyjny trójwarstwowy system lojalnościowo-marketingowy i monitorowania floty czasu rzeczywistego dla mobilnej lodziarni / foodtrucka.**
+* **Technologie:** React Native (Expo 54), Node.js, Express, Socket.io, MongoDB Atlas, Leaflet.js, Tailwind CSS, WebSockets, JWT + TOTP (2FA).
+* **Kluczowe funkcje:**
+  * **Aplikacja PWA Klienta (`client-web`):** Wirtualna karta lojalnościowa z kodem QR, dynamiczne odbieranie darmowych lodów, powiadomienia WebSocket oraz radar foodtrucka na żywo na interaktywnej mapie GPS Leaflet.
+  * **Natywna Aplikacja Obsługi (`admin-mobile`):** Szybki skaner QR z weryfikacją pieczątek, autoryzacja kryptograficzna JWT Bearer, integracja z kamerą oraz 5 dedykowanych kanałów Android (w tym alerty krytyczne `security-critical` z obejściem trybu Nie Przeszkadzać / DND).
+  * **Backend & Security Shield (`backend`):** Odporny silnik z automatycznym IP Blockerem (ochrona brute-force), detektorem wstrzyknięć NoSQL i anomalii skanerów webowych, dwuetapową autoryzacją 2FA (RFC 6238 TOTP) dla superadministratora oraz zautomatyzowanym systemem wydań OTA (Zero Render Bandwidth).
+* 🔗 [Przejdź do repozytorium](https://github.com/KrasKamil/HTML_LODY)
+* 📱 [Pobierz aplikację Android (Releases)](https://github.com/KrasKamil/HTML_LODY/releases)
+
 ### 📊 Market Brain Station
 **Profesjonalny bot do tradingu algorytmicznego z silnikiem wielostrategicznego backtestingu.**
 * **Technologie:** Python 3.9+, DuckDB, yfinance, Pandas, NumPy, Telegram API.
